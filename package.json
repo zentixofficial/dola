@@ -1,0 +1,9 @@
+{
+  "name": "dola-auto-creator",
+  "version": "1.0.0",
+  "description": "Dola AI Auto Account Creator using Puppeteer + Tiger SMS",
+  "main": "dola_puppeteer.js",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
