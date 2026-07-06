@@ -19,7 +19,7 @@ const fs = require('fs');
 
 // ---- CONFIG ----
 const DOLA_URL = 'https://www.dola.com/chat/?from_logout=1';
-const HEADLESS = true;         // Set false to see the browser
+const HEADLESS = false;         // Set false to see the browser
 const SLOW_MO = 50;            // ms delay between actions (human-like)
 const TIMEOUT = 60000;         // 60 second max wait
 
